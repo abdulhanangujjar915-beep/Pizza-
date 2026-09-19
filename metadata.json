@@ -1,6 +1,10 @@
 {
-  "name": "Paradise Restaurant",
+  "name": "Pizza ",
   "description": "Paradise Restaurant Faisalabad official portal for fine dining, online table reservations, food delivery with real-time tracking, secure digital payments, and verified customer reviews.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
